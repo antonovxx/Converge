@@ -1,0 +1,15 @@
+[submodule "converge-sso"]
+	path = converge-sso
+	url = https://github.com/antonovxx/converge-sso.git
+[submodule "converge-ems"]
+	path = converge-ems
+	url = https://github.com/antonovxx/converge-ems.git
+[submodule "converge-notification"]
+	path = converge-notification
+	url = https://github.com/antonovxx/converge-notification.git
+[submodule "converge-chat"]
+	path = converge-chat
+	url = https://github.com/antonovxx/converge-chat.git
+[submodule "converge-ui"]
+	path = converge-ui
+	url = https://github.com/antonovxx/converge-ui.git
